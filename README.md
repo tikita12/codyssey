@@ -153,5 +153,5 @@ a single, massive glowing green circular energy shockwave (plasma ring) bursts o
 ---
 
 ## 11. 보너스 
-- **보너스 2 · 다른 도구 재제작:** #01, #04를 hailuo.ai로 제작해보았다.
+- **보너스 2 · 다른 도구 재제작:** #01를 hailuo.ai로 제작해보았다.
 
