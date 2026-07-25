@@ -119,7 +119,7 @@ a single, massive glowing green circular energy shockwave (plasma ring) bursts o
 - **이미지 생성 AI (1종 이상):** google flow, (남자 키비쥬얼 생성) / gemini nanobanana2(제품 키비쥬얼 생성) 
 - **비디오 생성/변환 AI (1종 이상):** google flow, (키비쥬얼 고정)
 - **오디오 생성 AI (1종 이상):** mubert ai 에서 광고 bgm 을 제작하였습니다
-- **대체 도구 : 비디오-hailuo.ai사용하여, 캐릭터 레퍼런스를 넣고 영상을 제작할 수 있었다.
+- **대체 도구 : 비디오-hailuo.ai사용하여, 캐릭터 레퍼런스를 넣고 영상을 제작할 수 있었다. 무료로 사용할 시에 한 영상 당 25크레딧이 들어서 만약에 씬을 수정하지 않는다면 충분히 6씬을 제작할 수 있으나, 수정을 해야할 경우 모자랄 수 있어, 수정을 먼저 하기보다 스토리보드 처음부터 끝까지 생성을 하고, 남는 크레딧으로 크리티컬한 오류를 수정하는 쪽이 안정적일 것같다. 만약에 씬을 줄여야한다면, #2, #4를 줄이면 될 것같다.
 - **편집 도구:** CapCut 컷/오디오 조정 용도로만 썼음
 ---
 
@@ -128,6 +128,8 @@ a single, massive glowing green circular energy shockwave (plasma ring) bursts o
 - **고정한 파라미터/레퍼런스:** flow에 사무실, 산삼큐 이미지, 남자이미지를 레퍼런스로 등록하여 일관성을 유지하도록 하였습니다.
 
 ---
+
+## 8. 직접촬영, 유료스톡을 사용하지 않음
 
 ## 9. 최종 영상 스펙
 - **파일명:** SansamQ_commercial.mp4
@@ -153,5 +155,5 @@ a single, massive glowing green circular energy shockwave (plasma ring) bursts o
 ---
 
 ## 11. 보너스 
-- **보너스 2 · 다른 도구 재제작:** #01를 hailuo.ai로 제작해보았다.
+- **보너스 2 · 다른 도구 재제작:** #01, #04를 hailuo.ai로 제작해보았다.
 
