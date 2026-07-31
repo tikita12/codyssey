@@ -80,7 +80,7 @@
 
 ### 2-3. 워크플로우 설계
 - 워크플로우 흐름 설명 (또는 다이어그램)
-- Trigger : Gmail "Watch Emails"로 15분 간격 폴링방식으로 특정 메일 감자
+- Trigger : Gmail "Watch Emails"로 15분 간격 폴링방식으로 특정 메일 감지
 - Router : 발신자 기준으로 경로 분기
  -Filter1 : 발신자 조건(st******@naver.com)->Action1 : gemini를 사용하여 뉴스레터 3줄 요약->Action2 : google sheet에 add a row로 정리
  -Filter2 : 발신자 조건(s******1313@gmail.com)->Action3 : Discord 개인 서버에 평가자 알림 메세지 생성
